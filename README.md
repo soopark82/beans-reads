@@ -12,7 +12,7 @@ We want to build this application because we wanted an application that easily c
 
 ## Technical Description
 ### Figure 1: Architectural Diagram
-<img src="imgs/arch-diagram.GIF">
+<img src="public/imgs/arch-diagram.GIF">
 
 ### User Stories Summary Table
 <table>
